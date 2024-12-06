@@ -85,7 +85,8 @@ El frontend es un proyecto Vue.js que consume la API del backend.
 
 ### 4. Probar la Aplicación
 - Abre `http://localhost:8080` en tu navegador para acceder al frontend.
-- Prueba las operaciones (`Fetch All Data`, `Post Data`, etc.) desde la interfaz de usuario para interactuar con el backend.
+- Selecciona una de las opciones del desplegable (`Json`, `Storage`, `Csv`)
+- Prueba las operaciones (`Get Files`, `Store`, etc.) desde la interfaz de usuario para interactuar con el backend.
 
 ## Configuración del Entorno
 
